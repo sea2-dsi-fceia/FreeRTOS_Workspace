@@ -1,0 +1,5 @@
+freertos_hello.c:70:5:main	16	static
+freertos_hello.c:102:13:task1	16	static
+freertos_hello.c:120:13:task2	16	static
+freertos_hello.c:131:13:vApplicationStackOverflowHook	16	static
+freertos_hello.c:136:13:vApplicationIdleHook	8	static

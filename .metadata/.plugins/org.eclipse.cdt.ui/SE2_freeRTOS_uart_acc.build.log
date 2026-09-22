@@ -1,0 +1,6 @@
+21:36:31 **** Incremental Build of configuration Debug for project SE2_freeRTOS_uart_acc ****
+make -r -j4 all 
+make: Nothing to be done for 'all'.
+
+21:36:31 Build Finished. 0 errors, 0 warnings. (took 279ms)
+

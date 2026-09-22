@@ -1,0 +1,2 @@
+freertos_hello.c:68:5:main	16	static
+freertos_hello.c:92:13:hello_task	16	static

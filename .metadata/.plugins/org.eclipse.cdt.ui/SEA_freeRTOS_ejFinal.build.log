@@ -1,0 +1,6 @@
+18:36:29 **** Incremental Build of configuration Debug for project SEA_freeRTOS_ejFinal ****
+make -r -j4 all 
+make: Nothing to be done for 'all'.
+
+18:36:30 Build Finished. 0 errors, 0 warnings. (took 690ms)
+

@@ -1,0 +1,12 @@
+core_cm0plus.h:733:22:__NVIC_EnableIRQ	16	static
+core_cm0plus.h:769:22:__NVIC_DisableIRQ	16	static
+fsl_adc16.h:386:20:ADC16_EnableHardwareTrigger	16	static
+fsl_adc16.h:504:24:ADC16_GetChannelConversionValue	16	static
+fsl_port.h:371:20:PORT_SetPinMux	24	static
+adc.c:76:6:ADC_config	24	static
+adc.c:107:6:ADC_IniciarConv	8	static
+adc.c:122:6:vCallbackFunction	16	static
+adc.c:129:6:adc_init	32	static
+adc.c:147:9:adc_getVal	24	static
+adc.c:164:6:adc_getValueBlocking	16	static
+adc.c:172:6:ADC0_IRQHandler	16	static

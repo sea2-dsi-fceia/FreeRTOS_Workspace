@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchHistory>
+    <launchGroup id="org.eclipse.debug.ui.launchGroup.profilee">
+        <mruHistory/>
+        <favorites/>
+    </launchGroup>
+    <launchGroup id="org.eclipse.debug.ui.launchGroup.debug">
+        <mruHistory>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;false&quot; path=&quot;/frdmkl46z_freertos_hello/frdmkl46z_freertos_hello JLink Debug.launch&quot;/&gt;&#13;&#10;"/>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;false&quot; path=&quot;/frdmkl46z_freertos_adc/frdmkl46z_freertos_adc PE Debug.launch&quot;/&gt;&#13;&#10;"/>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;false&quot; path=&quot;/frdmkl46z_freertos_swtimer/frdmkl46z_freertos_swtimer PE Debug.launch&quot;/&gt;&#13;&#10;"/>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;false&quot; path=&quot;/frdmkl46z_freertos_uart_irq_sema_process/frdmkl46z_freertos_uart_irq_sema_process PE Debug.launch&quot;/&gt;&#13;&#10;"/>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;false&quot; path=&quot;/frdmkl46z_freertos_uart_irq_queue/frdmkl46z_freertos_uart_irq_semaphore PE Debug.launch&quot;/&gt;&#13;&#10;"/>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;false&quot; path=&quot;/frdmkl46z_freertos_semaphore_leds/frdmkl46z_freertos_hello_leds_semaphore PE Debug.launch&quot;/&gt;&#13;&#10;"/>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;false&quot; path=&quot;/frdmkl46z_freertos_task_param/frdmkl46z_freertos_idle_param PE Debug.launch&quot;/&gt;&#13;&#10;"/>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;false&quot; path=&quot;/frdmkl46z_freertos_idle_hook/frdmkl46z_freertos_idle_Hook PE Debug.launch&quot;/&gt;&#13;&#10;"/>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;false&quot; path=&quot;/frdmkl46z_freertos_idle_hook/frdmkl46z_freertos_hello_leds_blinky PE Debug.launch&quot;/&gt;&#13;&#10;"/>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;false&quot; path=&quot;/frdmkl46z_freertos_priority/frdmkl46z_freertos_hello_priority PE Debug.launch&quot;/&gt;&#13;&#10;"/>
+        </mruHistory>
+        <favorites/>
+    </launchGroup>
+    <launchGroup id="org.eclipse.debug.ui.launchGroup.profile">
+        <mruHistory/>
+        <favorites/>
+    </launchGroup>
+    <launchGroup id="org.eclipse.ui.externaltools.launchGroup">
+        <mruHistory/>
+        <favorites/>
+    </launchGroup>
+    <launchGroup id="org.eclipse.debug.ui.launchGroup.run">
+        <mruHistory/>
+        <favorites/>
+    </launchGroup>
+</launchHistory>

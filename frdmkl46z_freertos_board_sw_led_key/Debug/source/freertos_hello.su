@@ -1,0 +1,5 @@
+freertos_hello.c:70:5:main	16	static
+freertos_hello.c:106:13:sw_task	16	static
+freertos_hello.c:121:13:blink_task	16	static
+freertos_hello.c:132:6:vApplicationTickHook	8	static
+freertos_hello.c:137:6:vApplicationIdleHook	8	static

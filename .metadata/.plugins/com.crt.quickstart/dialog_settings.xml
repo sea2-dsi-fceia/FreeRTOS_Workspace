@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\Users\Daniel\Downloads\RTOS_Workspace - back up 23-8\SEA_freeRTOS_ejFinal.zip"/>
+			<item value="C:\Users\Daniel\Downloads\SE2 material para ver\Ejemplos\MCUXpresso\SEA_FreeRTOS_ejFinal.zip"/>
+			<item value="C:\Users\Daniel\Downloads\SE2 material para ver\Ejemplos\MCUXpresso\FreeRTOS_ACC.zip"/>
+			<item value="C:\Users\Daniel\Downloads\SE2 material para ver\Ejemplos\MCUXpresso\FreeRTOS_ADC_adc16_interrupt.zip"/>
+			<item value="C:\Users\Daniel\Downloads\SE2\Ejemplos\ejemplos1a6.zip"/>
+		</list>
+	</section>
+	<section name="com.crt.quickstart.views.wizards.examples.QSExampleSelectionPage">
+		<item key="dirname" value="C:\Users\Daniel\Downloads\RTOS_Workspace - back up 23-8"/>
+	</section>
+</section>

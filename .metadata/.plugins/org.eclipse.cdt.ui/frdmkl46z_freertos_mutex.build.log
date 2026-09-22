@@ -1,0 +1,6 @@
+16:52:45 **** Incremental Build of configuration Debug for project frdmkl46z_freertos_mutex ****
+make -r -j4 all 
+make: Nothing to be done for 'all'.
+
+16:52:45 Build Finished. 0 errors, 0 warnings. (took 656ms)
+

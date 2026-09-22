@@ -1,0 +1,6 @@
+12:14:55 **** Incremental Build of configuration Debug for project frdmkl46z_freertos_hello_leds_blinky2 ****
+make -r -j4 all 
+make: Nothing to be done for 'all'.
+
+12:14:55 Build Finished. 0 errors, 0 warnings. (took 548ms)
+

@@ -1,0 +1,27 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+C_SRCS += \
+../source/freertos_mutex.c \
+../source/semihost_hardfault.c 
+
+OBJS += \
+./source/freertos_mutex.o \
+./source/semihost_hardfault.o 
+
+C_DEPS += \
+./source/freertos_mutex.d \
+./source/semihost_hardfault.d 
+
+
+# Each subdirectory must supply rules for building sources it contributes
+source/%.o: ../source/%.c
+	@echo 'Building file: $<'
+	@echo 'Invoking: MCU C Compiler'
+	arm-none-eabi-gcc -std=gnu99 -DCPU_MKL46Z256VLL4 -DFRDM_KL46Z -DFREEDOM -DFSL_RTOS_FREE_RTOS -DCPU_MKL46Z256VLL4_cm0plus -DSDK_DEBUGCONSOLE=0 -DCR_INTEGER_PRINTF -D__MCUXPRESSO -D__USE_CMSIS -DDEBUG -D__REDLIB__ -I"C:\Users\Daniel\Downloads\FreeRTOS_Workspace\frdmkl46z_freertos_mutex\board" -I"C:\Users\Daniel\Downloads\FreeRTOS_Workspace\frdmkl46z_freertos_mutex\source" -I"C:\Users\Daniel\Downloads\FreeRTOS_Workspace\frdmkl46z_freertos_mutex" -I"C:\Users\Daniel\Downloads\FreeRTOS_Workspace\frdmkl46z_freertos_mutex\drivers" -I"C:\Users\Daniel\Downloads\FreeRTOS_Workspace\frdmkl46z_freertos_mutex\CMSIS" -I"C:\Users\Daniel\Downloads\FreeRTOS_Workspace\frdmkl46z_freertos_mutex\startup" -I"C:\Users\Daniel\Downloads\FreeRTOS_Workspace\frdmkl46z_freertos_mutex\utilities" -I"C:\Users\Daniel\Downloads\FreeRTOS_Workspace\frdmkl46z_freertos_mutex\amazon-freertos\FreeRTOS\portable" -I"C:\Users\Daniel\Downloads\FreeRTOS_Workspace\frdmkl46z_freertos_mutex\freertos\portable" -I"C:\Users\Daniel\Downloads\FreeRTOS_Workspace\frdmkl46z_freertos_mutex\amazon-freertos\include" -I"C:\Users\Daniel\Downloads\FreeRTOS_Workspace\frdmkl46z_freertos_mutex\board\src" -O0 -fno-common -g -Wall -c  -ffunction-sections  -fdata-sections  -ffreestanding  -fno-builtin -fmerge-constants -fmacro-prefix-map="../$(@D)/"=. -mcpu=cortex-m0plus -mthumb -D__REDLIB__ -fstack-usage -specs=redlib.specs -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@:%.o=%.o)" -MT"$(@:%.o=%.d)" -o "$@" "$<"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+

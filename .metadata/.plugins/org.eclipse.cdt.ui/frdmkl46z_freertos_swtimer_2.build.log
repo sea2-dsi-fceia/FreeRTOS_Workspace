@@ -1,0 +1,6 @@
+20:17:42 **** Incremental Build of configuration Debug for project frdmkl46z_freertos_swtimer_2 ****
+make -r -j4 all 
+make: Nothing to be done for 'all'.
+
+20:17:42 Build Finished. 0 errors, 0 warnings. (took 270ms)
+
