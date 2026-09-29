@@ -1,6 +1,8 @@
 # FreeRTOS Workspace — FRDM-KL46Z
 
-Workspace de **MCUXpresso IDE** con una colección progresiva de ejemplos de **FreeRTOS** sobre la placa **NXP FRDM-KL46Z** (MKL46Z256, ARM Cortex-M0+), usado como material de la asignatura **Sistemas Digitales 2 (SD2)** del Departamento de Sistemas e Informática (DSI), FCEIA – Universidad Nacional de Rosario.
+**Autor:** Prof. Ing. Daniel Márquez
+
+Workspace de **MCUXpresso IDE** con una colección progresiva de ejemplos de **FreeRTOS** sobre la placa **NXP FRDM-KL46Z** (MKL46Z256, ARM Cortex-M0+), usado como material de la asignatura **Sistemas Embebidos Avanzados 2 (SEA2)** del Departamento de Sistemas e Informática (DSI), FCEIA – Universidad Nacional de Rosario.
 
 Cada carpeta `frdmkl46z_freertos_*` es un proyecto independiente que aborda **un concepto del RTOS por vez**: tareas, prioridades, hooks, semáforos, notificaciones, colas, timers de software e interacción con interrupciones y periféricos.
 
@@ -185,4 +187,4 @@ Para que colas y semáforos aparezcan con nombre en el TAD, se pueden registrar 
 
 ---
 
-**Autor:** Prof. Ing. Daniel Márquez — Sistemas Digitales 2, DSI, FCEIA, Universidad Nacional de Rosario.
+**Autor:** Prof. Ing. Daniel Márquez — Sistemas Embebidos Avanzados 2, DSI, FCEIA, Universidad Nacional de Rosario.
